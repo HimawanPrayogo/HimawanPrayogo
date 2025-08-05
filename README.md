@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there saya Himawan anda bisa buat ini dengan membuat repository baru sesuaikan nama anda sama dengan nama repository
+## tambahkan readme.md di repo itu lalu otak atik readme.md nya 👋
+## akses https://profile-readme-generator.com/
+
+untuk bisa buat ini
+
 
 <!--
 **HimawanPrayogo/HimawanPrayogo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
